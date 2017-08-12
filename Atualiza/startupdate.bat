@@ -1,0 +1,1 @@
+sqlplus hipersp/hipersp@hsp @C:\sql\update.sql
